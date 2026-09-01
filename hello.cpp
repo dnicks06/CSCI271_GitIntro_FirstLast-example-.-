@@ -1,6 +1,6 @@
 // CSCI 27X - GitHub Upload Practice
-// Name: YOUR NAME
-// Section: YOUR SECTION
+// Name: David Nichols
+// Section: CSCI271https://github.com/dnicks06/CSCI271_GitIntro_FirstLast-example-.-/security
 
 #include <iostream>
 using namespace std;
